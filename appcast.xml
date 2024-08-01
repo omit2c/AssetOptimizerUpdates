@@ -3,12 +3,12 @@
     <channel>
         <title>AssetCatalogOptimzier</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Thu, 01 Aug 2024 16:06:47 +0200</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Thu, 01 Aug 2024 16:24:06 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/omit2c/AssetOptimizerUpdates/releases/download/prod/AssetOptimizer.dmg" length="1124259" type="application/octet-stream" sparkle:edSignature="Pyvj6vN9H2XUGY0qTcdxviOqZP8qKduBwJSolhtHKcFrgy38xtQdTSm8jv77SU0gRcCmk1MI07YCtRTObIzbCA=="/>
+            <enclosure url="https://github.com/omit2c/AssetOptimizerUpdates/releases/download/v1.0/AssetOptimizer.dmg" length="1124346" type="application/octet-stream" sparkle:edSignature="3/Y+ZQSfP5aX+FFVbsGDVcejuFgqhhYweWlgvGfRrafX0zo6NhCcPFNJhtkExU06OhImICLXePCDE+1TdFHhDg=="/>
         </item>
     </channel>
 </rss>
